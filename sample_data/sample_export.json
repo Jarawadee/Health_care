@@ -1,0 +1,29 @@
+[
+  {
+    "entry_date": "2026-01-01",
+    "entry_time": "09:00:00",
+    "daily_note": "ข้อมูลตัวอย่างสำหรับทดลองนำเข้าเท่านั้น",
+    "sleep": {
+      "bed_time": "23:00:00",
+      "wake_time": "07:00:00",
+      "duration_hours": 8.0,
+      "quality": 4,
+      "awakenings": 0,
+      "note": null
+    },
+    "vertigo": {
+      "has_symptom": 0,
+      "severity": null
+    },
+    "headache": {
+      "has_symptom": 0,
+      "severity": null
+    },
+    "lifestyle": {
+      "stress": 2,
+      "fatigue": 2
+    },
+    "meals": [],
+    "medications": []
+  }
+]
